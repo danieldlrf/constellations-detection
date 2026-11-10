@@ -1,0 +1,12 @@
+# CONERSION A ESCALA DE GRISES
+# MEDIANA 3x3
+# Top-Hat 
+# BINARIZACION AJUSTE ADAPTATIVO (3-15 estrellas)
+# BUSEQUEDA Y FILTRADO DE CONTORNOS POR AREA
+# EXTRACCION DE CENTROIDES DE LAS ESTRELLAS
+
+
+import cv2 as cv 
+import matplotlib.pyplot as plt 
+import numpy as np
+
